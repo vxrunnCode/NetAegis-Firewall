@@ -77,17 +77,6 @@ sudo apt install iptables arptables
 
 ---
 
-## 🪟 Don’t Have Kali Linux?
-
-You can install Kali Linux on Windows using **WSL (Windows Subsystem for Linux)**.
-
-📖 **Installation Guide for WSL Kali Linux**:  
-🔗 [https://learn.microsoft.com/en-us/windows/wsl/install](https://learn.microsoft.com/en-us/windows/wsl/install)
-
-> After installing WSL, open the Kali terminal and follow the same usage instructions to run `netaegis.py`.
-
----
-
 ## ▶️ How to Use
 
 ### 1. Clone the Project
