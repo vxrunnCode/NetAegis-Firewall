@@ -93,7 +93,7 @@ You can install Kali Linux on Windows using **WSL (Windows Subsystem for Linux)*
 ### 1. Clone the Project
 ```bash
 git clone https://github.com/vxrunnCode/NetAegis-Firewall.git
-cd NetAegis
+cd NetAegis-Firewall
 ```
 
 ### 2. Install Python Requirements
